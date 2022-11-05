@@ -7,5 +7,10 @@ there is a picture in case the input is less than the sum
 ![Q1 print (2)](https://user-images.githubusercontent.com/57920502/200145139-08a148bf-9970-41ad-810e-858549b1d040.png)
 
 ## Question2:
-In this program we convert  a fahrenheit tempreture to Celsius Temreture Using (X°F − 32) × 5/9  Formula While X is the input that the user enter
+In this program we convert  a fahrenheit tempreture to Celsius Temreture Using (X°F − 32) × 5/9  Formula While X is the input that the user enter.
+in this example X is 50 and 50 fahrenheit is 9.90 Celsius
+![Q2 (2)](https://user-images.githubusercontent.com/57920502/200145806-ae7edbc3-fa8d-4220-9d97-fdfddfa6e94a.png)
 
+## Question3:
+In This Question We Should Provide a Directory as an input,and the program search for the largest 10 files in the directory that provided 
+in case we didnt provide a directory name we will get the following error 
